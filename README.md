@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RogerC3D
 - 👀 I’m interested in science and art.
 - 🌱 I’m currently not learning anything.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me，twitter，update later
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am very sad today.
