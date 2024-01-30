@@ -3,7 +3,7 @@
 - 🌱 I’m currently not learning anything.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me，twitter，update later
-- 😄 Pronouns: ...
+- 😄 Pronouns: c
 - ⚡ Fun fact: I am very sad today.
 
 <!---
