@@ -5,6 +5,7 @@
 - 📫 How to reach me，twitter，update later
 - 😄 Pronouns: c
 - ⚡ Fun fact: I am very sad today.
+- ✨ Special c
 
 <!---
 RogerC3D/RogerC3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
